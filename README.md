@@ -170,7 +170,7 @@ flowchart TD
 ### 2. Clone
 
 ```bash
-git clone [https://github.com/youruser/sonyliv-downloader](https://github.com/arvind88765/sonyliv-downloader)
+git clone https://github.com/arvind88765/sonyliv-downloader
 cd sonyliv-downloader
 ```
 
