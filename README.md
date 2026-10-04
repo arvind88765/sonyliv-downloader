@@ -10,8 +10,9 @@ GUI tool to download SonyLIV movies and shows. Browser-based login, Widevine DRM
 
 ## Demo
 
-<!-- TODO: add demo video here -->
-<!-- suggested: screen recording of login + fetch + download, 1-2 mins, upload to this repo or YouTube and paste the link/embed below -->
+https://github.com/user-attachments/assets/9d551bb8-7648-46e5-831c-0e3d958e38d0
+
+> some parts are blurred out -- personal info like phone number and account details, not hiding any steps lol
 
 ---
 
