@@ -160,6 +160,8 @@ flowchart TD
 | mp4decrypt or shaka-packager | yes, for DRM | alternate decryptors |
 | requests | optional | urllib used as fallback |
 
+> all Python deps are in `requirements.txt` -- just `pip install -r requirements.txt` and you're done
+
 ---
 
 ## Setup
@@ -178,7 +180,7 @@ cd sonyliv-downloader
 ### 3. Install Python deps
 
 ```bash
-pip install playwright pywidevine requests
+pip install -r requirements.txt
 python -m playwright install chrome
 ```
 
